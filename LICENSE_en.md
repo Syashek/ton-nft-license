@@ -8,7 +8,7 @@ Title: NFT License and Terms of Use
 
 Creator: EQBsTKkE3iV2mN69fb3-_2jT2guqLzgKVPbBjP8HF9Ynoms4
 
-Royalty Rate: 10%
+Royalty Rate: 20%
 
 II. CREATOR PLEDGE
 
